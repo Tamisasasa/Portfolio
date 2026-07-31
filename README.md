@@ -19,16 +19,13 @@
 - 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
 ---
-
-## 🧰 Tech Stack & Tools
 <div align="center">
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/REACT-FFEbee?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-E3F2FD?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Next.js](https://img.shields.io/badge/NEXT.JS-F5F5F5?style=for-the-badge&logo=nextdotjs&logoColor=000) | ![SvelteKit](https://img.shields.io/badge/SVELTEKIT-FBE9E7?style=for-the-badge&logo=svelte&logoColor=FF3E00) |
-| Back-end | ![Node](https://img.shields.io/badge/NODE.JS-E8F5E9?style=for-the-badge&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/EXPRESS-ECEFF1?style=for-the-badge&logo=express&logoColor=000) | ![NestJS](https://img.shields.io/badge/NESTJS-FFEBEE?style=for-the-badge&logo=nestjs&logoColor=E0234E) | ![Go](https://img.shields.io/badge/GO-E0F7FA?style=for-the-badge&logo=go&logoColor=00ADD8) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-E8EAF6?style=for-the-badge&logo=postgresql&logoColor=4169E1) | ![MongoDB](https://img.shields.io/badge/MONGODB-E8F5E9?style=for-the-badge&logo=mongodb&logoColor=47A248) | ![DuckDB](https://img.shields.io/badge/DUCKDB-FFFDE7?style=for-the-badge&logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/DOCKER-E1F5FE?style=for-the-badge&logo=docker&logoColor=2496ED) | ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-E3F2FD?style=for-the-badge&logo=githubactions&logoColor=2088FF) | ![Kubernetes](https://img.shields.io/badge/KUBERNETES-E8EAF6?style=for-the-badge&logo=kubernetes&logoColor=326CE5) |
+| Category | Technologies |
+| :--- | :--- |
+| **Front-end** | ![HTML5](https://img.shields.io/badge/HTML5-FFEbee?style=for-the-badge&logo=html5&logoColor=E34F26) ![CSS3](https://img.shields.io/badge/CSS3-E3F2FD?style=for-the-badge&logo=css3&logoColor=1572B6) ![JAVASCRIPT](https://img.shields.io/badge/JAVASCRIPT-FFFDE7?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![TYPESCRIPT](https://img.shields.io/badge/TYPESCRIPT-E8EAF6?style=for-the-badge&logo=typescript&logoColor=3178C6) ![REACT](https://img.shields.io/badge/REACT-E0F7FA?style=for-the-badge&logo=react&logoColor=61DAFB) ![NEXT.JS](https://img.shields.io/badge/NEXT.JS-F5F5F5?style=for-the-badge&logo=nextdotjs&logoColor=000000) |
+| **Back-end** | ![JAVA](https://img.shields.io/badge/JAVA-FFF8E1?style=for-the-badge&logo=java&logoColor=007396) ![SPRING BOOT](https://img.shields.io/badge/SPRING%20BOOT-E8F5E9?style=for-the-badge&logo=springboot&logoColor=6DB33F) |
+| **Database** | ![MYSQL](https://img.shields.io/badge/MYSQL-E1F5FE?style=for-the-badge&logo=mysql&logoColor=4479A1) |
 
 </div>
 ---
