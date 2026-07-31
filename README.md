@@ -1,7 +1,9 @@
-<!-- ==================== Banner ==================== -->
+<!-- ===================================================== -->
+<!--                  HEADER / BANNER                      -->
+<!-- ===================================================== -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4ECDC4&height=230&section=header&text=Tamisa%20Tho-ngam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Flutter%20Developer&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:6C63FF,50:A78BFA,100:60A5FA&text=Tamisa%20Tho-ngam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Information%20Technology%20Student%20|%20Frontend%20Developer&descAlignY=58"/>
 </p>
 
 <h1 align="center">
@@ -9,118 +11,159 @@ Hi 👋 I'm Tamisa Tho-ngam
 </h1>
 
 <h3 align="center">
-💻 Information Technology Student @ Maejo University
+Information Technology Student • Front-end Developer • Flutter Developer
 </h3>
 
 <p align="center">
-Passionate about building modern web & mobile applications with React, Next.js and Flutter.
+
+💜 Passionate about building user-friendly web & mobile applications.
+
 </p>
 
 ---
 
 # 🚀 About Me
 
-🎓 Information Technology Student at **Maejo University**
+🎓 Fourth-year **Information Technology Student** at **Maejo University**
 
-💙 Passionate about **Front-end Development**
+💻 Passionate about **Frontend Development** and **UI/UX**
 
-📱 Interested in **Flutter & Mobile Development**
+📱 Hands-on experience in developing **Web** and **Mobile Applications**
+
+⚙️ Familiar with **Backend Development** using **Spring Boot**, **REST API**, and **MySQL**
+
+🤝 Experienced in collaborating with teams and coordinating software development projects
 
 🌱 Currently learning
 
 - TypeScript
 - Next.js
-- Spring Boot
 - Node.js
+- Full-stack Development
 
-🎯 Goal
+🎯 Career Goal
 
-Become a **Full-stack Developer**
+Become a **Frontend Developer** while continuously growing into a **Full-stack Developer**
 
-📫 Contact
+📫 Reach me
 
 📧 your_email@gmail.com
 
 🌐 Portfolio
 
-https://yourportfolio.com
+https://your-portfolio.vercel.app
 
 ---
 
 # 💻 Tech Stack
 
-### Front-end
+## 🎨 Front-end
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
-</p>
 
-### Mobile
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### Back-end
-
-<p>
-<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
-</p>
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql" />
-</p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
 </p>
 
 ---
 
-# 📂 Featured Projects
+## 📱 Mobile
 
-### 🏥 Vaccine Appointment System
+<p>
+
+<img src="https://skillicons.dev/icons?i=flutter,dart"/>
+
+</p>
+
+---
+
+## ⚙️ Back-end
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express"/>
+
+</p>
+
+---
+
+## 🗄 Database
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql"/>
+
+</p>
+
+---
+
+## 🛠 Tools
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman"/>
+
+</p>
+
+---
+
+# 📌 Featured Projects
+
+## 🏥 Vaccine Appointment System
 
 Flutter • Spring Boot • MySQL
 
-- Appointment Booking
-- User Authentication
-- REST API
-- Dashboard
+✔ User Authentication
 
-🔗 Repo
+✔ Appointment Booking
+
+✔ REST API
+
+✔ Admin Dashboard
+
+🔗 Repository
+
+https://github.com/yourname/vaccine-system
 
 ---
 
-### 🌐 Portfolio Website
+## 🌐 Portfolio Website
 
 React • Next.js
 
-- Responsive Design
-- Modern UI
-- Project Showcase
+✔ Responsive Design
 
-🔗 Repo
+✔ Modern UI
+
+✔ Project Showcase
+
+✔ Dark Mode
+
+🔗 Repository
+
+https://github.com/yourname/portfolio
 
 ---
 
-### 📚 Learning Management System
+## 🏕 Tribal Community Tourism System
 
 React • Spring Boot • MySQL
 
-- Student Management
-- Course Management
-- Authentication
+✔ Tourism Information
 
-🔗 Repo
+✔ Homestay Booking
+
+✔ Community Activities
+
+✔ REST API Integration
+
+🔗 Repository
+
+https://github.com/yourname/tourism
 
 ---
 
-# 📊 GitHub Stats
+# 📈 GitHub Statistics
 
 <p align="center">
 
@@ -142,7 +185,7 @@ React • Spring Boot • MySQL
 
 ---
 
-# 📈 Activity Graph
+# 📊 Contribution Graph
 
 <p align="center">
 
@@ -152,19 +195,44 @@ React • Spring Boot • MySQL
 
 ---
 
-# 🌎 Connect with me
+# 🏆 GitHub Trophies
 
 <p align="center">
 
-<a href="https://linkedin.com/in/xxxx">
-<img src="https://skillicons.dev/icons?i=linkedin" />
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&margin-w=15"/>
+
+</p>
+
+---
+
+# 📚 Currently Learning
+
+- ⚛ React Ecosystem
+- ▲ Next.js
+- 🟢 Node.js
+- ☕ Spring Boot
+- 🗄 MySQL
+- 🔷 TypeScript
+
+---
+
+# 📫 Connect with Me
+
+<p align="center">
+
+<a href="mailto:your_email@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="mailto:you@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail" />
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://yourportfolio.com">
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="https://your-portfolio.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
 </a>
 
@@ -172,8 +240,20 @@ React • Spring Boot • MySQL
 
 ---
 
+# 💡 Quote
+
+> *"Code is not just about solving problems — it's about creating experiences that make people's lives easier."*
+
+---
+
 <p align="center">
 
-![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=blueviolet"/>
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile!
 
 </p>
