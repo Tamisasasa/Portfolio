@@ -11,14 +11,18 @@
 </p>
 
 ---
-
 ## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
 
----
+<div align="center">
+
+| Status | Details |
+| :--- | :--- |
+| 🌱 **Learning** | Exploring advanced **TypeScript**, **Next.js**, and backend architecture |
+| 🛠 **Daily Stack** | **React**, **Next.js**, **TypeScript**, **Java (Spring Boot)**, **MySQL** |
+| 🎯 **Goal** | Building full-stack web applications and delivering production-ready software |
+| 📫 **Connect** | [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/your-username) |
+
+</div>
 <div align="center">
 
 | Category | Technologies |
