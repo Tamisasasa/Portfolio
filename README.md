@@ -1,73 +1,179 @@
-<!-- Banner / Cover -->
+<!-- ==================== Banner ==================== -->
+
 <p align="center">
-  <img src="ออกแบบ Banner มาใส่ตรงนี้เลย" alt="header image" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:4ECDC4&height=230&section=header&text=Tamisa%20Tho-ngam&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Front-end%20Developer%20%7C%20Flutter%20Developer&descAlignY=58" />
 </p>
 
-<h1 align="center">Hi, I’m Tamisa <img height="30" src="https://em-content.zobj.net/thumbs/120/apple/354/waving-hand_1f44b.png" /></h1>
+<h1 align="center">
+Hi 👋 I'm Tamisa Tho-ngam
+</h1>
+
+<h3 align="center">
+💻 Information Technology Student @ Maejo University
+</h3>
 
 <p align="center">
-  <strong>Full-stack Engineer • Tech Educator • Lifelong Learner</strong><br/>
-  <em>“Turning ideas into delightful, scalable software.”</em>
+Passionate about building modern web & mobile applications with React, Next.js and Flutter.
 </p>
 
 ---
 
-## 🚀 About Me
-- 🌱  I’m currently learning **⟪New Tech/Framework⟫**  
-- 🛠  Daily driver stack: **⟪Key Languages / Frameworks⟫**  
-- 🎯  2025 Goal: **⟪High-impact goal (e.g., ship an OSS library)⟫**  
-- 📫  Reach me: **⟪email@example.com⟫** | [LinkedIn](⟪url⟫) | [X/Twitter](⟪url⟫)
+# 🚀 About Me
+
+🎓 Information Technology Student at **Maejo University**
+
+💙 Passionate about **Front-end Development**
+
+📱 Interested in **Flutter & Mobile Development**
+
+🌱 Currently learning
+
+- TypeScript
+- Next.js
+- Spring Boot
+- Node.js
+
+🎯 Goal
+
+Become a **Full-stack Developer**
+
+📫 Contact
+
+📧 your_email@gmail.com
+
+🌐 Portfolio
+
+https://yourportfolio.com
 
 ---
 
-## 🧰 Tech Stack & Tools
-<div align="center">
+# 💻 Tech Stack
 
-| Domain | Primary | Comfortable | Currently Exploring |
-|--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-20232A?logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000?logo=nextdotjs) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?logo=svelte&logoColor=white) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?logo=express&logoColor=white) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white) | ![Go](https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?logoColor=000) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?logo=githubactions&logoColor=white) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white) |
+### Front-end
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs" />
+</p>
 
----
+### Mobile
 
-## 📌 Featured Projects
-| Project | Tech | Highlights | Links |
-|---------|------|-----------|-------|
-| **⟪Project A⟫** | React · Node · PostgreSQL | Real-time dashboard handling 100k req/min | [Repo](⟪url⟫) · [Live](⟪url⟫) |
-| **⟪Project B⟫** | Python · FastAPI | Deployed on AWS Lambda; 99.9% uptime | [Repo](⟪url⟫) |
-| **⟪Project C⟫** | Figma · TypeScript | Design System adopted by 3 teams | [Case Study](⟪url⟫) |
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,dart" />
+</p>
 
-_Add 2–4 projects max. Each row should fit on one screen._
+### Back-end
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
 
-## ✍🏻 Recent Blog / Talks
-<!-- GH Action can automate this section; placeholder for manual list -->
-- ⟪May 2025⟫ • **Observable-Ready Dashboards** at BangkokJS  
-- ⟪Apr 2025⟫ • Published *“Scalable Monorepo Patterns”* on Medium  
-- ⟪Mar 2025⟫ • Panel speaker at DevCon Asia: *Modern DevOps*
+### Database
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-## 📈 GitHub Stats
-<div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=⟪USERNAME⟫&show_icons=true&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=⟪USERNAME⟫&layout=compact&hide_border=true" />
-</div>
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman" />
+</p>
 
 ---
 
-## 🤝 Let’s Connect
-> **“Great products are built by great people working together.”**
+# 📂 Featured Projects
 
-- 💌 Email: ⟪email@example.com⟫  
-- 📝 Schedule a coffee chat: ⟪Calendly link⟫  
-- 🐦 DM me on [X/Twitter](⟪url⟫)
+### 🏥 Vaccine Appointment System
+
+Flutter • Spring Boot • MySQL
+
+- Appointment Booking
+- User Authentication
+- REST API
+- Dashboard
+
+🔗 Repo
+
+---
+
+### 🌐 Portfolio Website
+
+React • Next.js
+
+- Responsive Design
+- Modern UI
+- Project Showcase
+
+🔗 Repo
+
+---
+
+### 📚 Learning Management System
+
+React • Spring Boot • MySQL
+
+- Student Management
+- Course Management
+- Authentication
+
+🔗 Repo
+
+---
+
+# 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=⟪USERNAME⟫&style=flat-square" alt="profile views"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🌎 Connect with me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/xxxx">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:you@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
+<a href="https://yourportfolio.com">
+<img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=blueviolet)
+
 </p>
