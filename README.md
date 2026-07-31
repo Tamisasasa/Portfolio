@@ -25,13 +25,12 @@
 
 | Domain | Primary | Comfortable | Currently Exploring |
 |--------|---------|-------------|---------------------|
-| Front-end | ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=000&color=61DAFB) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white&color=3178C6) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white&color=222222) | ![SvelteKit](https://img.shields.io/badge/SvelteKit-FF3E00?style=flat&logo=svelte&logoColor=white&color=FF5722) |
-| Back-end | ![Node](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white&color=4CAF50) ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white&color=607D8B) | ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white&color=E91E63) | ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white&color=00BCD4) |
-| Data | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white&color=3F51B5) | ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white&color=81C784) | ![DuckDB](https://img.shields.io/badge/DuckDB-FFC700?style=flat&logoColor=000&color=FFEB3B) |
-| DevOps | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white&color=03A9F4) | ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white&color=2196F3) | ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white&color=5C6BC0) |
+| Front-end | ![React](https://img.shields.io/badge/REACT-FFEbee?style=for-the-badge&logo=react&logoColor=61DAFB) ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-E3F2FD?style=for-the-badge&logo=typescript&logoColor=3178C6) | ![Next.js](https://img.shields.io/badge/NEXT.JS-F5F5F5?style=for-the-badge&logo=nextdotjs&logoColor=000) | ![SvelteKit](https://img.shields.io/badge/SVELTEKIT-FBE9E7?style=for-the-badge&logo=svelte&logoColor=FF3E00) |
+| Back-end | ![Node](https://img.shields.io/badge/NODE.JS-E8F5E9?style=for-the-badge&logo=node.js&logoColor=339933) ![Express](https://img.shields.io/badge/EXPRESS-ECEFF1?style=for-the-badge&logo=express&logoColor=000) | ![NestJS](https://img.shields.io/badge/NESTJS-FFEBEE?style=for-the-badge&logo=nestjs&logoColor=E0234E) | ![Go](https://img.shields.io/badge/GO-E0F7FA?style=for-the-badge&logo=go&logoColor=00ADD8) |
+| Data | ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-E8EAF6?style=for-the-badge&logo=postgresql&logoColor=4169E1) | ![MongoDB](https://img.shields.io/badge/MONGODB-E8F5E9?style=for-the-badge&logo=mongodb&logoColor=47A248) | ![DuckDB](https://img.shields.io/badge/DUCKDB-FFFDE7?style=for-the-badge&logoColor=000) |
+| DevOps | ![Docker](https://img.shields.io/badge/DOCKER-E1F5FE?style=for-the-badge&logo=docker&logoColor=2496ED) | ![GitHub Actions](https://img.shields.io/badge/GITHUB%20ACTIONS-E3F2FD?style=for-the-badge&logo=githubactions&logoColor=2088FF) | ![Kubernetes](https://img.shields.io/badge/KUBERNETES-E8EAF6?style=for-the-badge&logo=kubernetes&logoColor=326CE5) |
 
 </div>
-
 ---
 
 ## 📌 Featured Projects
